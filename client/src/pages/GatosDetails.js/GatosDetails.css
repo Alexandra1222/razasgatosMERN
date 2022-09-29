@@ -1,0 +1,11 @@
+.gatos-details img {
+    display: inline-block;
+    width: 30%;
+}
+
+.gatos-details article {
+    display: inline-block;
+    width: 40%;
+    margin-left: 20px;
+    vertical-align: top;
+}
